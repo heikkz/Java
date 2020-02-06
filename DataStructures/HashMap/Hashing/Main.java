@@ -1,3 +1,5 @@
+package DataStructures.HashMap.Hashing;
+
 import java.util.Scanner;
 
 public class Main {
@@ -40,6 +42,7 @@ public class Main {
 					return;
 				}	
 			}
+			In.close();
 		}
 	}
 }
